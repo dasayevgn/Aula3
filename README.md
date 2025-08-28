@@ -1,1 +1,1 @@
-Os exercicios estãi cada um em sua BRANCHE
+Os exercicios estão cada um em sua BRANCHE
